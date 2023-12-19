@@ -3,3 +3,5 @@ four txt
 newly added line on local
 
 another newly added line in four
+
+edited text from remote server to local 
